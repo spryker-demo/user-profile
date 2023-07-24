@@ -5,7 +5,7 @@
 
     <transfer name="User">
         <property name="photo" type="string"/>
-        <property name="phoneNumber" type="string"/>
+        <property name="phone" type="string"/>
     </transfer>
 
 </transfers>
