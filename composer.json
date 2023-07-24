@@ -37,7 +37,7 @@
         "sort-packages": true
     },
     "suggest": {
-        "spryker/kernel": "ADD SUGGEST DESCRIPTION",
-        "spryker/symfony": "ADD SUGGEST DESCRIPTION"
+        "spryker/kernel": "^3.30.0",
+        "spryker/symfony": "^3.11.1"
     }
 }
