@@ -5,11 +5,12 @@
     "license": "proprietary",
     "require": {
         "php": ">=7.4",
-        "spryker/kernel": "^3.30.0"
+        "spryker/user-extension": "*"
     },
     "require-dev": {
         "spryker/code-sniffer": "*",
-        "spryker/testify": "*"
+        "spryker/kernel": "*",
+        "spryker/symfony": "*"
     },
     "autoload": {
         "psr-4": {
@@ -34,5 +35,9 @@
     },
     "config": {
         "sort-packages": true
+    },
+    "suggest": {
+        "spryker/kernel": "ADD SUGGEST DESCRIPTION",
+        "spryker/symfony": "ADD SUGGEST DESCRIPTION"
     }
 }
