@@ -4,7 +4,7 @@
     "description": "UserProfile module",
     "license": "proprietary",
     "require": {
-        "php": ">=7.4"
+        "php": ">=8.0"
     },
     "require-dev": {
         "spryker/code-sniffer": "^0.17.18"
@@ -34,7 +34,7 @@
         "sort-packages": true
     },
     "suggest": {
-        "spryker/kernel": "^3.30.0",
+        "spryker/kernel": "^3.70.0",
         "spryker/symfony": "^3.11.1"
     }
 }
