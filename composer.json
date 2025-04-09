@@ -4,7 +4,7 @@
     "description": "UserProfile module",
     "license": "proprietary",
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.2"
     },
     "require-dev": {
         "spryker/code-sniffer": "^0.17.18"
